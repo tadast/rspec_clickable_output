@@ -6,7 +6,7 @@ Gem::Specification.new do |gem|
   gem.email         = ["tadas@pdfcv.com"]
   gem.description   = %q{Enables to click-open RSpec failure backtrace lines}
   gem.summary       = %q{Clickable RSpec output.}
-  gem.homepage      = ""
+  gem.homepage      = "https://github.com/tadast/rspec_clickable_output"
 
   gem.add_dependency 'rspec-core', '~> 2.11.1'
   gem.add_development_dependency 'rspec'
