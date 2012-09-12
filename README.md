@@ -8,7 +8,7 @@ Should work by default
 
 ## Sublime Text 2
 
-You will need to install subl-handler https://github.com/hiddenbek/subl-handler
+You will need to install subl-handler https://github.com/dsrw/subl-handler
 
 ## Installation
 
