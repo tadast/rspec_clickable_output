@@ -6,7 +6,7 @@ module RSpec
     class Metadata
 
       def self.relative_path(line)
-        prefix = "txmt://open?url=file://"
+        prefix = "subl://open?url=file://"
         cwd = Dir.pwd
         case line
           when %r{(^[a-z_]+\([A-Za-z]+\)) \[\.?(/?.*):(\d+)\]:}
