@@ -1,6 +1,9 @@
 # Rspec Clickable Output
 
+If you use the latest version of [iTerm2](http://www.iterm2.com/#/section/home), you don't need this, just command-click on any file path to open it.
+
 This gem transforms RSpec's backtrace output in your OSX shell to clickable links, so you can open failing specs more easily.
+
 
 ## TextMate
 
@@ -8,7 +11,7 @@ Should work by default
 
 ## Sublime Text 2
 
-You will need to install subl-handler https://github.com/asuth/subl-handler
+You will need to install [subl-handler](https://github.com/asuth/subl-handler)
 
 ## Installation
 
